@@ -1,0 +1,19 @@
+hr.one{
+	border-top:5px solid teal;
+	color:blue;
+}
+span{
+	font-size:50px;
+	color:blue;
+	font-family:Garamond;
+}
+h1{
+	font-family:Times New Roman;
+	font-size:60px;
+	
+}
+body{
+	background-image:url(123.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

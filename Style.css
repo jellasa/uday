@@ -1,0 +1,35 @@
+p{
+	background:red;
+}
+
+
+
+h1{
+color:red;
+}
+h2{
+color:blue;
+}
+ol{
+	color:pink;
+}
+ul{
+	color:white;
+}
+body{
+background:cyan;
+
+body{
+	background:url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.hello{
+	background:blue;
+	color:white;
+}
+
+#special:first-letter{
+color:pink;
+font-size:100px;
+}
